@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Approach-Innovation%20Driven-yellowgreen" alt="Approach Innovation Driven" />
   <a href="https://www.linkedin.com/in/derevandal/"><img src="https://img.shields.io/badge/LinkedIn-@derevandal-blue?logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://docs.google.com/document/d/1D6kUoTZP-s0u-BFxcLLmyc5LsbdkCDYTWSryUWZ-JYo/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-informational?logo=google-docs" alt="Resume" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=andrevandal.andrevandal" alt="Visitors" />
   <img src="https://wakatime.com/badge/user/02eefb13-82e2-4552-bce2-d68c2d80aaff.svg" alt="Total time coded since Aug 24 2017" />
 </p>
 
@@ -72,27 +71,27 @@ I’ve worked across startups, tech companies and side projects, building design
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=andrevandal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
+      srcset="https://github-readme-stats.vandal.services/api?username=andrevandal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=andrevandal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+      srcset="https://github-readme-stats.vandal.services/api?username=andrevandal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=andrevandal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="andrevandal's Github Stats" height="192px" />
+    <img src="https://github-readme-stats.vandal.services/api?username=andrevandal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="andrevandal's Github Stats" height="192px" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevandal&langs_count=8&layout=compact&hide_border=true&theme=dracula"
+      srcset="https://github-readme-stats.vandal.services/api/top-langs/?username=andrevandal&langs_count=8&layout=compact&hide_border=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevandal&langs_count=8&layout=compact&hide_border=true"
+      srcset="https://github-readme-stats.vandal.services/api/top-langs/?username=andrevandal&langs_count=8&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevandal&langs_count=8&layout=compact&hide_border=true&theme=dracula" alt="andrevandal's Top Languages" height="192px" />
+    <img src="https://github-readme-stats.vandal.services/api/top-langs/?username=andrevandal&langs_count=8&layout=compact&hide_border=true&theme=dracula" alt="andrevandal's Top Languages" height="192px" />
   </picture>
 </a>
 
