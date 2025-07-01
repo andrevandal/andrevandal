@@ -1,6 +1,6 @@
 <!-- Typing SVG headline -->
 <p align="center">
-<a href="https://andrevandal.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Andr%C3%A9+Vandal;Senior+Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://andrevandal.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Andr%C3%A9+Vandal&repeat=false" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Think.+Plan.+Execute.;Building+products+from+scratch;Mentor%2C+Educator%2C+Builder+at+heart;Web+performance+%26+Core+Web+Vitals;Open-source+enthusiast+%26+indie+dev" alt="Typing SVG" />
   </a>
@@ -44,7 +44,7 @@ I’ve worked across startups, tech companies and side projects, building design
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" />
 
   <!-- Tooling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" />
@@ -100,7 +100,6 @@ I’ve worked across startups, tech companies and side projects, building design
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="andrevandal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=andrevandal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
 <h2>📊 Weekly Development Breakdown</h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka--> 
@@ -113,13 +112,12 @@ I’ve worked across startups, tech companies and side projects, building design
 
 <details>
   <summary><h2>Joke</h2></summary>
-  <p>![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)</p>
+  <p><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" /></p>
 </details>
 
 <details>
   <summary>
   <h2>🏷️ Holopin Badges</h2></summary>
-
   <p><a href="https://holopin.io/@andrevandal"><img src="https://holopin.me/andrevandal" alt="@andrevandal&#39;s Holopin board"></a></p>
 </details>
 
