@@ -16,7 +16,7 @@
   <img src="https://wakatime.com/badge/user/02eefb13-82e2-4552-bce2-d68c2d80aaff.svg" alt="Total time coded since Aug 24 2017" />
 </p>
 
-<h3>👋 Hey, I'm André Vandal</h3>
+<h2>👋 Hey, I'm André Vandal</h2>
 
 I'm a Brazilian software engineer with over 15 years of experience in web development. I specialize in frontend engineering (React, Vue, Astro, Tailwind) and also work on fullstack systems using Node.js, PostgreSQL, Redis, and cloud platforms.
 
@@ -26,7 +26,7 @@ I’ve worked across startups, tech companies and side projects, building design
 - 🛠️ I'm currently working at [Lemon Energia](https://energialemon.com.br/) helping reshape the sustainable energy market
 - 📬 Reach me at **me@andrevandal.dev**
 
-<h3>🧰 Languages and Tools</h3>
+<h2>🧰 Languages and Tools</h2>
 
 <p align="left">
   <!-- Core Languages -->
@@ -99,6 +99,8 @@ I’ve worked across startups, tech companies and side projects, building design
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="andrevandal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=andrevandal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" /><
+
 <h2>📊 Weekly Development Breakdown</h2>
 <!--START_SECTION:waka-->
 
@@ -112,22 +114,13 @@ Astro        21 mins         ██▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka--> 
 
-<h2>⚡ Recent GitHub Activity</h2>
-
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<h2>⚡ Recent GitHub Activity</h2>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<details>
-  <summary><h2>Joke</h2></summary>
-  <p><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" /></p>
-</details>
-
-<details>
-  <summary>
-  <h2>🏷️ Holopin Badges</h2></summary>
-  <p><a href="https://holopin.io/@andrevandal"><img src="https://holopin.me/andrevandal" alt="@andrevandal&#39;s Holopin board"></a></p>
-</details>
+<h2>🏷️ Holopin Badges</h2></summary>
+<p><a href="https://holopin.io/@andrevandal"><img src="https://holopin.me/andrevandal" alt="@andrevandal&#39;s Holopin board"></a></p>
 
 <!-- Inpirations -->
 <!-- https://github.com/DenverCoder1 -->
