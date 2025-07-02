@@ -27,7 +27,7 @@ I’ve worked across startups, tech companies and side projects, building design
 - 🛠️ I'm currently working at [Lemon Energia](https://energialemon.com.br/) helping reshape the sustainable energy market
 - 📬 Reach me at **me@andrevandal.dev**
 
-<h2>🧰 Languages and Tools</h2>
+<h3>🧰 Languages and Tools</h3>
 
 <p align="left">
   <!-- Core Languages -->
@@ -67,7 +67,7 @@ I’ve worked across startups, tech companies and side projects, building design
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<h2>📊 Stats</h2>
+<h3>📊 Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
@@ -97,12 +97,11 @@ I’ve worked across startups, tech companies and side projects, building design
 </a>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="andrevandal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=andrevandal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" /><
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
 
-<h2>📊 Weekly Development Breakdown</h2>
+<h3>📊 Weekly Development Breakdown</h3>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -116,11 +115,11 @@ Astro        21 mins         ██▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka--> 
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<h2>⚡ Recent GitHub Activity</h2>
+<h3>⚡ Recent GitHub Activity</h3>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<h2>🏷️ Holopin Badges</h2></summary>
+<h3>🏷️ Holopin Badges</h3>
 <p><a href="https://holopin.io/@andrevandal"><img src="https://holopin.me/andrevandal" alt="@andrevandal&#39;s Holopin board"></a></p>
 
 <!-- Inpirations -->
