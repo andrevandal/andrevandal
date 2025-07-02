@@ -1,6 +1,7 @@
 <!-- Typing SVG headline -->
 <p align="center">
-<a href="https://andrevandal.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Andr%C3%A9+Vandal&repeat=false" alt="Typing SVG" /></a>
+  <a href="https://andrevandal.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Andr%C3%A9+Vandal&repeat=false" alt="Typing SVG" /></a>
+  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Think.+Plan.+Execute.;Building+products+from+scratch;Mentor%2C+Educator%2C+Builder+at+heart;Web+performance+%26+Core+Web+Vitals;Open-source+enthusiast+%26+indie+dev" alt="Typing SVG" />
   </a>
