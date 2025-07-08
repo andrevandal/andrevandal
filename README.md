@@ -105,11 +105,11 @@ I’ve worked across startups, tech companies and side projects, building design
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 19 mins   ███████████░░░░░░░░░░░░░░   44.47 %
-JavaScript   3 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-Markdown     2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-YAML         57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   6 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   37.46 %
+TypeScript   6 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.30 %
+Markdown     2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+YAML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka--> 
