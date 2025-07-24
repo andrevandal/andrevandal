@@ -114,11 +114,6 @@ Other        23 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka--> 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<h3>⚡ Recent GitHub Activity</h3>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <h3>🏷️ Holopin Badges</h3>
 <p><a href="https://holopin.io/@andrevandal"><img src="https://holopin.me/andrevandal" alt="@andrevandal&#39;s Holopin board"></a></p>
 
