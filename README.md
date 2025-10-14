@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Leadership-Team%20Builder%20%26%20Mentor-blueviolet" alt="Leadership Team Builder & Mentor" />
   <img src="https://img.shields.io/badge/Expertise-Tech%20%2B%20Business%20Synergy-success" alt="Expertise Tech + Business Synergy" />
   <img src="https://img.shields.io/badge/Approach-Innovation%20Driven-yellowgreen" alt="Approach Innovation Driven" />
-  <a href="https://www.linkedin.com/in/derevandal/"><img src="https://img.shields.io/badge/LinkedIn-@derevandal-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://docs.google.com/document/d/1D6kUoTZP-s0u-BFxcLLmyc5LsbdkCDYTWSryUWZ-JYo/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-informational?logo=google-docs" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/andre-vandal/"><img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9%20Vandal-blue?logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://wakatime.com/badge/user/02eefb13-82e2-4552-bce2-d68c2d80aaff.svg" alt="Total time coded since Aug 24 2017" />
 </p>
 
