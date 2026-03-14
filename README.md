@@ -104,11 +104,11 @@ I’ve worked across startups, tech companies and side projects, building design
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 4 mins           █████████▒░░░░░░░░░░░░░░░   37.39 %
-Other        41 mins               ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-JSON         30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Bash         21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-YAML         9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Markdown     1 hr 10 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+Other        1 hr 8 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
+JSON         1 hr                  █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Bash         38 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+YAML         25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
 ```
 
 <!--END_SECTION:waka--> 
