@@ -105,7 +105,7 @@ I’ve worked across startups, tech companies and side projects, building design
 
 ```txt
 Markdown     1 hr 10 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
-Other        1 hr 8 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
+Other        1 hr 8 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
 JSON         1 hr                  █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
 Bash         38 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
 YAML         25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
