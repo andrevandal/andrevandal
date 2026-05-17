@@ -105,9 +105,9 @@ I’ve worked across startups, tech companies and side projects, building design
 
 ```txt
 Other        6 hrs 34 mins         ██████████▓░░░░░░░░░░░░░░   42.84 %
-TypeScript   5 hrs 28 mins         █████████░░░░░░░░░░░░░░░░   35.70 %
-YAML         1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Text         56 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+TypeScript   5 hrs 28 mins         █████████░░░░░░░░░░░░░░░░   35.72 %
+YAML         1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Text         56 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
 Markdown     26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
