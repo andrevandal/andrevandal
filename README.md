@@ -104,11 +104,11 @@ I’ve worked across startups, tech companies and side projects, building design
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 36 mins         ████████░░░░░░░░░░░░░░░░░   32.39 %
-Other         3 hrs 8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Astro         1 hr 51 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Markdown      1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-JSON          1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+TypeScript    4 hrs 35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 %
+Other         3 hrs 15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+Astro         3 hrs 5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+Markdown      1 hr 36 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+JSON          37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka--> 
