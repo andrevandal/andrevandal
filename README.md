@@ -23,7 +23,6 @@ I'm a Brazilian software engineer with over 15 years of experience in web develo
 I’ve worked across startups, tech companies and side projects, building design systems, CMSs, analytics flows, and developer tools. I also teach and mentor new devs through hands-on learning — as I did in **Lenyeg**, a practical bootcamp-style project I founded.
 
 - 🧠 I'm passionate about **developer experience**, **performance**, and **clean code**
-- 🛠️ I'm currently working at [Lemon Energia](https://energialemon.com.br/) helping reshape the sustainable energy market
 - 📬 Reach me at **me@andrevandal.dev**
 
 <h3>🧰 Languages and Tools</h3>
