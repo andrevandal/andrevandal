@@ -103,9 +103,7 @@ I’ve worked across startups, tech companies and side projects, building design
 <!--START_SECTION:waka-->
 
 ```txt
-INI     3 mins                ███████████░░░░░░░░░░░░░░   44.62 %
-Other   3 mins                ██████████▒░░░░░░░░░░░░░░   40.95 %
-JSON    1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+INI   3 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
