@@ -103,11 +103,11 @@ I’ve worked across startups, tech companies and side projects, building design
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 35 mins         ███████████████████▒░░░░░   77.80 %
-Other        27 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-SSH Config   16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-YAML         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Makefile     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Markdown     4 hrs 8 mins          ████████████████████░░░░░   79.81 %
+Other        29 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+SSH Config   16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+YAML         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Makefile     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka--> 
