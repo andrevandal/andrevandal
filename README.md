@@ -103,7 +103,7 @@ I’ve worked across startups, tech companies and side projects, building design
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
